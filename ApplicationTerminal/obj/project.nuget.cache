@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mL7XSL/x4KZFDN6FD82QYgwiW0otjgCPH+MnO29MtVHO7KVUz4dizTrZcV1IaeARfJNQjvQx/yMJTrbrL8cZQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme Longo\\Desktop\\API\\BotPadawan\\ApplicationTerminal\\ApplicationTerminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme Longo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

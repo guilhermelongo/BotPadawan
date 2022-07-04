@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzJSrGLIvVou6B7f1DkXCP6/IWaB1TkV+X2PriOaNxVZ0Xg6ZrkKKNnIMtQn/jhlyjjU8dRLfym9vBtw5Hx64w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme Longo\\Desktop\\API\\BotPadawan\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme Longo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
